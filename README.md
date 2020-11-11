@@ -2,7 +2,7 @@
 ---
 ##### Professional Software Engineer with 15 years experience and Open Source Contributor, founder of Bus115 project and I like to play ultimate and drink coffee.
 
-![Profile image](no_internet.gif)
+![Profile image](no__internet.gif)
 <!--
 **belushkin/belushkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
