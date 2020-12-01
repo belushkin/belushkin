@@ -8,7 +8,7 @@
 
 🔭 I have launched https://bus115.kiev.ua/
 
-🌱 I’m currently learning Java
+🌱 I’m currently learning Java, AWS and React
 
 ![](https://komarev.com/ghpvc/?username=belushkin)
                                                      
