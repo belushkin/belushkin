@@ -4,9 +4,11 @@
 
 ![Profile image](no__internet.gif)
 
-- 🔭 I’m currently working on http://alcotester.xyz/
-- 🔭 I have launched https://bus115.kiev.ua/
-- 🌱 I’m currently learning Java
+🔭 I’m currently working on http://alcotester.xyz/
+
+🔭 I have launched https://bus115.kiev.ua/
+
+🌱 I’m currently learning Java
 
 ![](https://komarev.com/ghpvc/?username=belushkin)
                                                      
