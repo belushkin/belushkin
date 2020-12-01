@@ -1,8 +1,11 @@
 ### Hi there 👋, I am Max Belushkin
 ---
-##### <p align="center">Professional Software Engineer with 15 years experience, Open Source Contributor and founder of https://bus115.kiev.ua/, https://alcotester.xyz/. I like to play ultimate and drink coffee.</p>
+##### <p align="center">Professional Software Engineer with 15 years experience, Open Source Contributor and founder of bus115, alcotester. I like to play ultimate and drink coffee.</p>
 
 ![Profile image](no__internet.gif)
+
+🔭 I’m currently working on http://alcotester.xyz/
+
 <!--
 **belushkin/belushkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
